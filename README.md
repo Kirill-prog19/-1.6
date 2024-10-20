@@ -1,3 +1,6 @@
+https://kirill-prog19.github.io/-1.6/ макет 1.6
+
+
 # Webpack Static Site Starter Kit
 
 ## Требования к проекту
